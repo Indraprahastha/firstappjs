@@ -6,3 +6,4 @@
 <li>Tabib</li>
 <li>Penyihir</li>
 </ul>
+Setelah Quiz terisi semua maka JS akan melakukan perhitungan dari jawaban yang diberikan sebagai apa Peran yang pantas dimainkan oleh pemain. Jika kamu berminat mencobanya silahkan klik link berikut <a href:http://jsbin.com/huremiv/1>LINK<a>
